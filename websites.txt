@@ -51,12 +51,15 @@ btc-cap.net
 buy-bitcoin.pagedemo.co
 buy-your-crypto.com
 byt-logic.com
+c4iex.com
 capital-bitcoin.com
 capital-coins.com
 capital-cryptos.com
+capital-secure.com
 cf-partners.io
 club-epargne.com
 cmscrypto.com
+coinhouse.eu
 coin-house-bitcoin.com
 coinhouse.eu
 coinpaiement.com
@@ -64,6 +67,7 @@ coinpatrimoine.com
 coinquickapp.com
 coinquick.net
 coins50.com
+coins-markets.net
 comptoir-du-bitcoin.com
 connect-coin.fr
 conseil-crypto.com
@@ -76,6 +80,7 @@ crypto-access.com
 crypto-altcoins.net
 cryptobankweb.com
 crypto-banque.com
+cryptobinance.net
 cryptobanque.eu
 cryptobiz.fr
 crypto-bourse.com
@@ -112,6 +117,7 @@ crypto-logic.com
 cryptoman.fr
 crypto-market.fr
 cryptominage.com
+cryptomonnaienews.net
 cryptomoney888.com
 cryptomonneo.com
 crypto-next.com
@@ -123,6 +129,7 @@ cryptopatrimoine.com
 crypto-performance.com
 cryptopro1.com
 cryptoproformation.com
+cryptoprofx.com
 cryptopromarket.com
 cryptoquicker.com
 cryptorama-bank.com
@@ -132,6 +139,7 @@ cryptosecure56.com
 cryptos-factory.com
 cryptos-invest.com
 cryptos-invest.net
+cryptos-investing.com
 cryptos-maker.com
 cryptos-news.com
 cryptos.solutions
@@ -144,6 +152,7 @@ desbitcoins.com
 direct-coin.com
 direct-crypto.com
 easybitcoin.fr
+ecm-aml.com
 ecrypto-international.com
 eminage.com
 epargnebitcoin.com
@@ -171,6 +180,7 @@ finanscorporation.com
 forex2crypto.com
 formulairecontact.org
 france-alcoin.com
+fr.crypto-major.tech
 fxcryptomarket.com
 fxcryptos.com
 generalcrypto.net
@@ -181,6 +191,7 @@ gmtcrypto.com
 good-crypto.com
 group-cvc.com
 histoire-bitcoin.com
+home-bitcoin.com
 home-coins.com
 infoconso.info
 info-crypto.org
@@ -192,6 +203,7 @@ inter-crypto.com
 international-bitcoin.com
 investglobalcapital.com
 investicrypto.com
+investir-bitcoin-2018.fr
 investir-bitcoin.net
 investirenbitcoin.com
 investirsurbitcoin.com
@@ -219,6 +231,7 @@ livretcrypto.com
 lyf-chain.com
 macryptobank.com
 ma-crypto-monnaie.com
+maisonducoins.net
 market-crypto.net
 mcs-markets.com
 meilleures-crypto.com
@@ -254,6 +267,7 @@ prix-bitcoin.com
 rachatbitcoin.com
 secure-bitcoin.com
 securecryptoexchange.eu
+smoney-crypto.com
 simulateur-bitcoin.com
 simulation-bitcoin.com
 solution-bitcoin.com
@@ -265,10 +279,12 @@ solutions-crypto.com
 sslcrypto.co
 stock-crypto.com
 store-bitcoins.com
+strato-markets.com
 tcc-france.com
 toutsurlebitcoin.com
 trade-bitcoin.net
 trade-my-bitcoin.com
+trade-my-bitcoin.net
 tradezlescrypto.com
 trading-bitcoin.info
 transferer-bitcoin.com
@@ -283,6 +299,8 @@ valeur-crypto.com
 vendre-achat-bitcoin.com
 verticoin.com
 votrecrypto.fr
+wallet-coins.com
 world-coin.eu
 world-cryptos.com
+xe-cryptos.net
 ydconsultant.com
